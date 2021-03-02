@@ -28,9 +28,7 @@
   <image height="100" width="70" x="234" xlink:href="/img/pieces/cards/b0.svg" y="0"/>
   <image height="100" width="70" x="312" xlink:href="/img/pieces/cards/p0.svg" y="0"/>
   <text dy="20" fill="#f5f6f7" x="504" y="0">Later...</text>
-  <g style="font-size: 1.4em;">
-    <text dy="57.0" fill="#f5f6f7" x="464" y="30">Bob</text>
-  </g>
+  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="464" y="30">Bob</text>
   <svg height="100" width="70" x="544" y="30">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -66,7 +64,7 @@
   </svg>
   <svg height="40" width="64" x="859" y="30">
     <defs/>
-    <rect fill="black" height="40" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="black" height="40" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Chop</text>
@@ -76,9 +74,7 @@
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Move</text>
     </svg>
   </svg>
-  <g style="font-size: 1.4em;">
-    <text dy="57.0" fill="#f5f6f7" x="464" y="155">Cathy</text>
-  </g>
+  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="464" y="155">Cathy</text>
   <svg height="100" width="70" x="544" y="155">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>

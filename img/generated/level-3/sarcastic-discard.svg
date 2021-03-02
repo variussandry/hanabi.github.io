@@ -27,9 +27,7 @@
   <image height="100" width="70" x="156" xlink:href="/img/pieces/cards/g0.svg" y="0"/>
   <image height="100" width="70" x="234" xlink:href="/img/pieces/cards/b0.svg" y="0"/>
   <image height="100" width="70" x="312" xlink:href="/img/pieces/cards/p0.svg" y="0"/>
-  <g style="font-size: 1.4em;">
-    <text dy="57.0" fill="#f5f6f7" x="464" y="0">Alice</text>
-  </g>
+  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="464" y="0">Alice</text>
   <svg height="100" width="70" x="544" y="0">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -57,7 +55,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
-  <text dy="30" fill="red" stroke="red" style="filter: url(#shadow)" x="735" y="0">(R)</text>
+  <text dx="22.0" dy="56.0" fill="red" stroke="red" style="font-size: 1.5em; filter: url(#shadow);" x="700" y="0">(R)</text>
   <svg height="100" width="70" x="778" y="0">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -72,9 +70,7 @@
       <defs/>
     </svg>
   </svg>
-  <g style="font-size: 1.4em;">
-    <text dy="57.0" fill="#f5f6f7" x="464" y="125">Bob</text>
-  </g>
+  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="464" y="125">Bob</text>
   <svg height="100" width="70" x="544" y="125">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -98,7 +94,7 @@
   <image height="70" width="50" x="632" xlink:href="/img/pieces/arrow.svg" y="85"/>
   <circle cx="657" cy="110" fill="black" r="15" stroke="white" stroke-width="2"/>
   <image height="16" style="filter: url(#whitenum)" width="16" x="649" xlink:href="/img/pieces/pips/3.svg" y="102"/>
-  <text dy="30" fill="red" stroke="red" style="filter: url(#shadow)" x="657" y="125">(R)</text>
+  <text dx="22.0" dy="56.0" fill="red" stroke="red" style="font-size: 1.5em; filter: url(#shadow);" x="622" y="125">(R)</text>
   <svg height="100" width="70" x="700" y="125">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -120,9 +116,7 @@
       <defs/>
     </svg>
   </svg>
-  <g style="font-size: 1.4em;">
-    <text dy="57.0" fill="#f5f6f7" x="464" y="250">Cathy</text>
-  </g>
+  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="464" y="250">Cathy</text>
   <svg height="100" width="70" x="544" y="250">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>

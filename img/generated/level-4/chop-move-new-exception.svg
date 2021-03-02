@@ -21,9 +21,7 @@
   <image height="100" width="70" x="312" xlink:href="/img/pieces/cards/p2.svg" y="0"/>
   <image height="100" width="70" x="390" xlink:href="/img/pieces/cards/m2.svg" y="0"/>
   <text dy="20" fill="#f5f6f7" x="582" y="0">Situation before clue</text>
-  <g style="font-size: 1.4em;">
-    <text dy="57.0" fill="#f5f6f7" x="542" y="30">Bob</text>
-  </g>
+  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="542" y="30">Bob</text>
   <svg height="100" width="70" x="622" y="30">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -59,9 +57,7 @@
       <defs/>
     </svg>
   </svg>
-  <g style="font-size: 1.4em;">
-    <text dy="57.0" fill="#f5f6f7" x="542" y="155">Cathy</text>
-  </g>
+  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="542" y="155">Cathy</text>
   <svg height="100" width="70" x="622" y="155">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -78,7 +74,7 @@
   </svg>
   <svg height="40" width="64" x="703" y="155">
     <defs/>
-    <rect fill="peru" height="40" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="peru" height="40" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Chop</text>
@@ -157,17 +153,15 @@
   </svg>
   <svg height="20" width="64" x="937" y="260">
     <defs/>
-    <rect fill="black" height="20" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="black" height="20" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Save</text>
     </svg>
   </svg>
-  <text dy="30" fill="white" stroke="white" style="filter: url(#shadow)" x="969" y="155">(CM)</text>
+  <text dx="22.0" dy="56.0" fill="white" stroke="white" style="font-size: 1.5em; filter: url(#shadow);" x="934" y="155">(CM)</text>
   <text dy="20" fill="#f5f6f7" x="582" y="295">Situation after clue</text>
-  <g style="font-size: 1.4em;">
-    <text dy="57.0" fill="#f5f6f7" x="542" y="325">Alice</text>
-  </g>
+  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="542" y="325">Alice</text>
   <svg height="100" width="70" x="622" y="325">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -203,9 +197,7 @@
       <defs/>
     </svg>
   </svg>
-  <g style="font-size: 1.4em;">
-    <text dy="57.0" fill="#f5f6f7" x="542" y="450">Bob</text>
-  </g>
+  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="542" y="450">Bob</text>
   <svg height="100" width="70" x="622" y="450">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -222,7 +214,7 @@
   </svg>
   <svg height="40" width="64" x="703" y="450">
     <defs/>
-    <rect fill="peru" height="40" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="peru" height="40" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Chop</text>
@@ -236,98 +228,35 @@
   <svg height="100" width="70" x="778" y="450">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/m.svg" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
     </svg>
   </svg>
   <image height="70" width="50" x="788" xlink:href="/img/pieces/arrow.svg" y="410"/>
   <circle cx="813" cy="435" fill="blue" r="15" stroke="black" stroke-width="2"/>
-  <image height="16" style="filter: url(#shadow)" width="16" x="805" xlink:href="/img/pieces/pips/b.svg" y="427"/>
   <rect fill="orange" height="104" rx="5" ry="5" width="74" x="854.0" y="448.0"/>
   <svg height="100" width="70" x="856" y="450">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/m.svg" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
     </svg>
   </svg>
   <image height="70" width="50" x="866" xlink:href="/img/pieces/arrow.svg" y="410"/>
   <circle cx="891" cy="435" fill="blue" r="15" stroke="black" stroke-width="2"/>
-  <image height="16" style="filter: url(#shadow)" width="16" x="883" xlink:href="/img/pieces/pips/b.svg" y="427"/>
   <rect fill="orange" height="104" rx="5" ry="5" width="74" x="932.0" y="448.0"/>
   <svg height="100" width="70" x="934" y="450">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/b.svg" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
     </svg>
   </svg>
   <image height="70" width="50" x="944" xlink:href="/img/pieces/arrow.svg" y="410"/>
   <circle cx="969" cy="435" fill="blue" r="15" stroke="black" stroke-width="2"/>
-  <image height="16" style="filter: url(#shadow)" width="16" x="961" xlink:href="/img/pieces/pips/b.svg" y="427"/>
   <svg height="20" width="64" x="937" y="555">
     <defs/>
-    <rect fill="gold" height="20" stroke="black" width="64" x="0" y="0"/>
+    <rect fill="gold" height="20" rx="5" ry="5" stroke="black" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="black" text-anchor="middle" x="50%" y="50%">Focus</text>
