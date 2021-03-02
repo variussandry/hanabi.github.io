@@ -73,10 +73,10 @@
   </svg>
   <svg height="20" width="64" x="557" y="125">
     <defs/>
-    <rect fill="red" height="20" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="blue" height="20" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
-      <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Red 2</text>
+      <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Blue 2</text>
     </svg>
   </svg>
   <svg height="100" width="70" x="632" y="125">
@@ -88,10 +88,10 @@
   </svg>
   <svg height="20" width="64" x="635" y="125">
     <defs/>
-    <rect fill="purple" height="20" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="red" height="20" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
-      <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Purple 2</text>
+      <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Red 2</text>
     </svg>
   </svg>
   <svg height="100" width="70" x="710" y="125">
@@ -116,25 +116,25 @@
     </svg>
   </svg>
   <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="464" y="250">Cathy</text>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="552.0" y="248.0"/>
   <svg height="100" width="70" x="554" y="250">
-    <defs/>
-    <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/3.svg" y="0"/>
-    <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
-      <defs/>
-    </svg>
-  </svg>
-  <image height="70" width="50" x="564" xlink:href="/img/pieces/arrow.svg" y="210"/>
-  <circle cx="589" cy="235" fill="black" r="15" stroke="white" stroke-width="2"/>
-  <image height="16" style="filter: url(#whitenum)" width="16" x="581" xlink:href="/img/pieces/pips/3.svg" y="227"/>
-  <text dx="22.0" dy="56.0" fill="violet" stroke="violet" style="font-size: 1.5em; filter: url(#shadow);" x="554" y="250">(P)</text>
-  <svg height="100" width="70" x="632" y="250">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
     </svg>
   </svg>
+  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="630.0" y="248.0"/>
+  <svg height="100" width="70" x="632" y="250">
+    <defs/>
+    <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/3.svg" y="0"/>
+    <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
+      <defs/>
+    </svg>
+  </svg>
+  <image height="70" width="50" x="642" xlink:href="/img/pieces/arrow.svg" y="210"/>
+  <circle cx="667" cy="235" fill="black" r="15" stroke="white" stroke-width="2"/>
+  <image height="16" style="filter: url(#whitenum)" width="16" x="659" xlink:href="/img/pieces/pips/3.svg" y="227"/>
+  <text dx="22.0" dy="56.0" fill="red" stroke="red" style="font-size: 1.5em; filter: url(#shadow);" x="632" y="250">(R)</text>
   <svg height="100" width="70" x="710" y="250">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -142,18 +142,13 @@
       <defs/>
     </svg>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="786.0" y="248.0"/>
   <svg height="100" width="70" x="788" y="250">
     <defs/>
-    <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/3.svg" y="0"/>
+    <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
     </svg>
   </svg>
-  <image height="70" width="50" x="798" xlink:href="/img/pieces/arrow.svg" y="210"/>
-  <circle cx="823" cy="235" fill="black" r="15" stroke="white" stroke-width="2"/>
-  <image height="16" style="filter: url(#whitenum)" width="16" x="815" xlink:href="/img/pieces/pips/3.svg" y="227"/>
-  <text dx="22.0" dy="56.0" fill="lightgreen" stroke="lightgreen" style="font-size: 1.5em; filter: url(#shadow);" x="788" y="250">(G)</text>
   <svg height="100" width="70" x="866" y="250">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
