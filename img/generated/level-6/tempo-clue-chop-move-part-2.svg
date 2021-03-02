@@ -23,7 +23,7 @@
   <text dy="50" fill="#000001" x="360" y="30">Bob</text>
   <svg height="100" width="70" x="420" y="40">
     <defs/>
-    <rect fill="gray" height="100" width="70" x="0" y="0"/>
+    <rect fill="gray" height="100" rx="6" ry="6" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
       <defs/>
       <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
@@ -53,12 +53,12 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
     </svg>
   </svg>
-  <rect fill="orange" height="102" rx="2" ry="2" width="72" x="493" y="29"/>
+  <rect fill="orange" height="102" rx="6" ry="6" width="72" x="493" y="29"/>
   <image height="100" width="70" x="494" xlink:href="/img/pieces/r2.svg" y="30"/>
   <image height="70" width="50" x="504" xlink:href="/img/pieces/clue-2.png" y="-10"/>
   <svg height="100" width="70" x="568" y="40">
     <defs/>
-    <rect fill="gray" height="100" width="70" x="0" y="0"/>
+    <rect fill="gray" height="100" rx="6" ry="6" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
       <defs/>
       <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
@@ -90,7 +90,7 @@
   </svg>
   <svg height="100" width="70" x="642" y="40">
     <defs/>
-    <rect fill="gray" height="100" width="70" x="0" y="0"/>
+    <rect fill="gray" height="100" rx="6" ry="6" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
       <defs/>
       <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
@@ -122,7 +122,7 @@
   </svg>
   <svg height="100" width="70" x="716" y="40">
     <defs/>
-    <rect fill="gray" height="100" width="70" x="0" y="0"/>
+    <rect fill="gray" height="100" rx="6" ry="6" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
       <defs/>
       <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
@@ -154,7 +154,7 @@
   </svg>
   <svg height="40" width="64" x="719" y="30">
     <defs/>
-    <rect fill="black" height="40" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="black" height="40" rx="6" ry="6" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Chop</text>
@@ -169,7 +169,7 @@
   <text dy="90" fill="#000001" x="360" y="155">giver)</text>
   <svg height="100" width="70" x="420" y="165">
     <defs/>
-    <rect fill="gray" height="100" width="70" x="0" y="0"/>
+    <rect fill="gray" height="100" rx="6" ry="6" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
       <defs/>
       <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
@@ -201,7 +201,7 @@
   </svg>
   <svg height="100" width="70" x="494" y="165">
     <defs/>
-    <rect fill="gray" height="100" width="70" x="0" y="0"/>
+    <rect fill="gray" height="100" rx="6" ry="6" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
       <defs/>
       <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
@@ -233,7 +233,7 @@
   </svg>
   <svg height="100" width="70" x="568" y="165">
     <defs/>
-    <rect fill="gray" height="100" width="70" x="0" y="0"/>
+    <rect fill="gray" height="100" rx="6" ry="6" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
       <defs/>
       <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
@@ -265,7 +265,7 @@
   </svg>
   <svg height="100" width="70" x="642" y="165">
     <defs/>
-    <rect fill="gray" height="100" width="70" x="0" y="0"/>
+    <rect fill="gray" height="100" rx="6" ry="6" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
       <defs/>
       <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
@@ -297,7 +297,7 @@
   </svg>
   <svg height="100" width="70" x="716" y="165">
     <defs/>
-    <rect fill="gray" height="100" width="70" x="0" y="0"/>
+    <rect fill="gray" height="100" rx="6" ry="6" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
       <defs/>
       <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
