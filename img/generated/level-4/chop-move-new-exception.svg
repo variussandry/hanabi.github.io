@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="590" version="1.1" viewBox="0 0 948 590" width="948" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg baseProfile="full" height="590" version="1.1" viewBox="0 0 1012 590" width="1012" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
         <filter id="shadow">
         <feOffset in="SourceAlpha" dx="2" dy="2" result="offsetblur"/>
@@ -15,14 +15,16 @@
         </filter>
     </defs>
   <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/r2.svg" y="0"/>
-  <image height="100" width="70" x="74" xlink:href="/img/pieces/cards/y2.svg" y="0"/>
-  <image height="100" width="70" x="148" xlink:href="/img/pieces/cards/g2.svg" y="0"/>
-  <image height="100" width="70" x="222" xlink:href="/img/pieces/cards/b2.svg" y="0"/>
-  <image height="100" width="70" x="296" xlink:href="/img/pieces/cards/p2.svg" y="0"/>
-  <image height="100" width="70" x="370" xlink:href="/img/pieces/cards/m2.svg" y="0"/>
-  <text dy="20" fill="#000001" x="558" y="0">Situation before clue</text>
-  <text dy="50" fill="#000001" x="518" y="30">Bob</text>
-  <svg height="100" width="70" x="578" y="40">
+  <image height="100" width="70" x="78" xlink:href="/img/pieces/cards/y2.svg" y="0"/>
+  <image height="100" width="70" x="156" xlink:href="/img/pieces/cards/g2.svg" y="0"/>
+  <image height="100" width="70" x="234" xlink:href="/img/pieces/cards/b2.svg" y="0"/>
+  <image height="100" width="70" x="312" xlink:href="/img/pieces/cards/p2.svg" y="0"/>
+  <image height="100" width="70" x="390" xlink:href="/img/pieces/cards/m2.svg" y="0"/>
+  <text dy="20" fill="#f5f6f7" x="582" y="0">Situation before clue</text>
+  <g style="font-size: 1.4em;">
+    <text dy="57.0" fill="#f5f6f7" x="542" y="30">Bob</text>
+  </g>
+  <svg height="100" width="70" x="622" y="30">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -55,7 +57,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.32050807568878, -9.999999999999986)" width="12" x="-6" xlink:href="/img/pieces/pips/m.svg" y="-6"/>
     </svg>
   </svg>
-  <svg height="100" width="70" x="652" y="40">
+  <svg height="100" width="70" x="700" y="30">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -88,7 +90,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.32050807568878, -9.999999999999986)" width="12" x="-6" xlink:href="/img/pieces/pips/m.svg" y="-6"/>
     </svg>
   </svg>
-  <svg height="100" width="70" x="726" y="40">
+  <svg height="100" width="70" x="778" y="30">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -121,7 +123,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.32050807568878, -9.999999999999986)" width="12" x="-6" xlink:href="/img/pieces/pips/m.svg" y="-6"/>
     </svg>
   </svg>
-  <svg height="100" width="70" x="800" y="40">
+  <svg height="100" width="70" x="856" y="30">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -154,7 +156,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.32050807568878, -9.999999999999986)" width="12" x="-6" xlink:href="/img/pieces/pips/m.svg" y="-6"/>
     </svg>
   </svg>
-  <svg height="100" width="70" x="874" y="40">
+  <svg height="100" width="70" x="934" y="30">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -187,8 +189,10 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.32050807568878, -9.999999999999986)" width="12" x="-6" xlink:href="/img/pieces/pips/m.svg" y="-6"/>
     </svg>
   </svg>
-  <text dy="50" fill="#000001" x="518" y="155">Cathy</text>
-  <svg height="100" width="70" x="578" y="165">
+  <g style="font-size: 1.4em;">
+    <text dy="57.0" fill="#f5f6f7" x="542" y="155">Cathy</text>
+  </g>
+  <svg height="100" width="70" x="622" y="155">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -221,7 +225,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.32050807568878, -9.999999999999986)" width="12" x="-6" xlink:href="/img/pieces/pips/m.svg" y="-6"/>
     </svg>
   </svg>
-  <svg height="100" width="70" x="652" y="165">
+  <svg height="100" width="70" x="700" y="155">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -254,7 +258,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.32050807568878, -9.999999999999986)" width="12" x="-6" xlink:href="/img/pieces/pips/m.svg" y="-6"/>
     </svg>
   </svg>
-  <svg height="40" width="64" x="655" y="155">
+  <svg height="40" width="64" x="703" y="155">
     <defs/>
     <rect fill="peru" height="40" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
@@ -266,8 +270,8 @@
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">slot</text>
     </svg>
   </svg>
-  <rect fill="orange" height="102" rx="5" ry="5" width="72" x="725" y="154"/>
-  <svg height="100" width="70" x="726" y="155">
+  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="776.0" y="153.0"/>
+  <svg height="100" width="70" x="778" y="155">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -296,8 +300,8 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.32050807568878, -9.999999999999986)" width="12" x="-6" xlink:href="/img/pieces/pips/m.svg" y="-6"/>
     </svg>
   </svg>
-  <rect fill="orange" height="102" rx="5" ry="5" width="72" x="799" y="154"/>
-  <svg height="100" width="70" x="800" y="155">
+  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="854.0" y="153.0"/>
+  <svg height="100" width="70" x="856" y="155">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -326,7 +330,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.32050807568878, -9.999999999999986)" width="12" x="-6" xlink:href="/img/pieces/pips/m.svg" y="-6"/>
     </svg>
   </svg>
-  <svg height="100" width="70" x="874" y="165">
+  <svg height="100" width="70" x="934" y="155">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -357,7 +361,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.320508075688767, 10.000000000000009)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
-  <svg height="20" width="64" x="877" y="260">
+  <svg height="20" width="64" x="937" y="260">
     <defs/>
     <rect fill="black" height="20" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
@@ -365,10 +369,12 @@
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Save</text>
     </svg>
   </svg>
-  <text dy="30" fill="white" stroke="white" style="filter: url(#shadow)" x="909" y="155">(CM)</text>
-  <text dy="20" fill="#000001" x="558" y="295">Situation after clue</text>
-  <text dy="50" fill="#000001" x="518" y="325">Alice</text>
-  <svg height="100" width="70" x="578" y="335">
+  <text dy="30" fill="white" stroke="white" style="filter: url(#shadow)" x="969" y="155">(CM)</text>
+  <text dy="20" fill="#f5f6f7" x="582" y="295">Situation after clue</text>
+  <g style="font-size: 1.4em;">
+    <text dy="57.0" fill="#f5f6f7" x="542" y="325">Alice</text>
+  </g>
+  <svg height="100" width="70" x="622" y="325">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -401,7 +407,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.32050807568878, -9.999999999999986)" width="12" x="-6" xlink:href="/img/pieces/pips/m.svg" y="-6"/>
     </svg>
   </svg>
-  <svg height="100" width="70" x="652" y="335">
+  <svg height="100" width="70" x="700" y="325">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -434,7 +440,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.32050807568878, -9.999999999999986)" width="12" x="-6" xlink:href="/img/pieces/pips/m.svg" y="-6"/>
     </svg>
   </svg>
-  <svg height="100" width="70" x="726" y="335">
+  <svg height="100" width="70" x="778" y="325">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -467,7 +473,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.32050807568878, -9.999999999999986)" width="12" x="-6" xlink:href="/img/pieces/pips/m.svg" y="-6"/>
     </svg>
   </svg>
-  <svg height="100" width="70" x="800" y="335">
+  <svg height="100" width="70" x="856" y="325">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -500,7 +506,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.32050807568878, -9.999999999999986)" width="12" x="-6" xlink:href="/img/pieces/pips/m.svg" y="-6"/>
     </svg>
   </svg>
-  <svg height="100" width="70" x="874" y="335">
+  <svg height="100" width="70" x="934" y="325">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -533,8 +539,10 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.32050807568878, -9.999999999999986)" width="12" x="-6" xlink:href="/img/pieces/pips/m.svg" y="-6"/>
     </svg>
   </svg>
-  <text dy="50" fill="#000001" x="518" y="450">Bob</text>
-  <svg height="100" width="70" x="578" y="460">
+  <g style="font-size: 1.4em;">
+    <text dy="57.0" fill="#f5f6f7" x="542" y="450">Bob</text>
+  </g>
+  <svg height="100" width="70" x="622" y="450">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -565,7 +573,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.320508075688767, 10.000000000000009)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
-  <svg height="100" width="70" x="652" y="460">
+  <svg height="100" width="70" x="700" y="450">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -596,7 +604,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.320508075688767, 10.000000000000009)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
-  <svg height="40" width="64" x="655" y="450">
+  <svg height="40" width="64" x="703" y="450">
     <defs/>
     <rect fill="peru" height="40" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
@@ -608,8 +616,8 @@
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">slot</text>
     </svg>
   </svg>
-  <rect fill="orange" height="102" rx="5" ry="5" width="72" x="725" y="449"/>
-  <svg height="100" width="70" x="726" y="450">
+  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="776.0" y="448.0"/>
+  <svg height="100" width="70" x="778" y="450">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/m.svg" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -636,11 +644,11 @@
       <defs/>
     </svg>
   </svg>
-  <image height="70" width="50" x="736" xlink:href="/img/pieces/arrow.svg" y="410"/>
-  <circle cx="761" cy="435" fill="blue" r="15" stroke="black" stroke-width="2"/>
-  <image height="16" style="filter: url(#shadow)" width="16" x="753" xlink:href="/img/pieces/pips/b.svg" y="427"/>
-  <rect fill="orange" height="102" rx="5" ry="5" width="72" x="799" y="449"/>
-  <svg height="100" width="70" x="800" y="450">
+  <image height="70" width="50" x="788" xlink:href="/img/pieces/arrow.svg" y="410"/>
+  <circle cx="813" cy="435" fill="blue" r="15" stroke="black" stroke-width="2"/>
+  <image height="16" style="filter: url(#shadow)" width="16" x="805" xlink:href="/img/pieces/pips/b.svg" y="427"/>
+  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="854.0" y="448.0"/>
+  <svg height="100" width="70" x="856" y="450">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/m.svg" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -667,11 +675,11 @@
       <defs/>
     </svg>
   </svg>
-  <image height="70" width="50" x="810" xlink:href="/img/pieces/arrow.svg" y="410"/>
-  <circle cx="835" cy="435" fill="blue" r="15" stroke="black" stroke-width="2"/>
-  <image height="16" style="filter: url(#shadow)" width="16" x="827" xlink:href="/img/pieces/pips/b.svg" y="427"/>
-  <rect fill="orange" height="102" rx="5" ry="5" width="72" x="873" y="449"/>
-  <svg height="100" width="70" x="874" y="450">
+  <image height="70" width="50" x="866" xlink:href="/img/pieces/arrow.svg" y="410"/>
+  <circle cx="891" cy="435" fill="blue" r="15" stroke="black" stroke-width="2"/>
+  <image height="16" style="filter: url(#shadow)" width="16" x="883" xlink:href="/img/pieces/pips/b.svg" y="427"/>
+  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="932.0" y="448.0"/>
+  <svg height="100" width="70" x="934" y="450">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/b.svg" y="0"/>
     <svg height="20" width="14.0" x="0.0" y="80">
@@ -698,10 +706,10 @@
       <defs/>
     </svg>
   </svg>
-  <image height="70" width="50" x="884" xlink:href="/img/pieces/arrow.svg" y="410"/>
-  <circle cx="909" cy="435" fill="blue" r="15" stroke="black" stroke-width="2"/>
-  <image height="16" style="filter: url(#shadow)" width="16" x="901" xlink:href="/img/pieces/pips/b.svg" y="427"/>
-  <svg height="20" width="64" x="877" y="555">
+  <image height="70" width="50" x="944" xlink:href="/img/pieces/arrow.svg" y="410"/>
+  <circle cx="969" cy="435" fill="blue" r="15" stroke="black" stroke-width="2"/>
+  <image height="16" style="filter: url(#shadow)" width="16" x="961" xlink:href="/img/pieces/pips/b.svg" y="427"/>
+  <svg height="20" width="64" x="937" y="555">
     <defs/>
     <rect fill="gold" height="20" stroke="black" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
