@@ -22,11 +22,11 @@
     </filter>
         
 </defs>
-  <image height="100" width="70" x="0" xlink:href="/img/pieces/back-r.svg" y="50"/>
-  <image height="100" width="70" x="74" xlink:href="/img/pieces/back-y.svg" y="50"/>
-  <image height="100" width="70" x="148" xlink:href="/img/pieces/back-g.svg" y="50"/>
-  <image height="100" width="70" x="222" xlink:href="/img/pieces/back-b.svg" y="50"/>
-  <image height="100" width="70" x="296" xlink:href="/img/pieces/back-p.svg" y="50"/>
+  <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/r0.svg" y="50"/>
+  <image height="100" width="70" x="74" xlink:href="/img/pieces/cards/y0.svg" y="50"/>
+  <image height="100" width="70" x="148" xlink:href="/img/pieces/cards/g0.svg" y="50"/>
+  <image height="100" width="70" x="222" xlink:href="/img/pieces/cards/b0.svg" y="50"/>
+  <image height="100" width="70" x="296" xlink:href="/img/pieces/cards/p0.svg" y="50"/>
   <text dy="50" fill="#000001" x="442" y="0">Alice</text>
   <svg height="100" width="70" x="502" y="10">
     <defs/>
@@ -53,11 +53,11 @@
     </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pip-r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pip-y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pip-b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="100" width="70" x="576" y="10">
@@ -85,11 +85,11 @@
     </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pip-r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pip-y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pip-b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="100" width="70" x="650" y="10">
@@ -117,11 +117,11 @@
     </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pip-r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pip-y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pip-b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="100" width="70" x="724" y="10">
@@ -149,11 +149,11 @@
     </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pip-r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pip-y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pip-b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="40" width="64" x="727" y="0">
@@ -193,11 +193,11 @@
     </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pip-r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pip-y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pip-b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="40" width="64" x="801" y="0">
@@ -218,19 +218,19 @@
   <rect fill="orange" height="102" rx="5" ry="5" width="72" x="501" y="124"/>
   <svg height="100" width="70" x="502" y="125">
     <defs/>
-    <image height="100" width="70" x="0" xlink:href="/img/pieces/1.svg" y="0"/>
+    <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/1.svg" y="0"/>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pip-r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pip-y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pip-b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <image height="70" width="50" x="512" xlink:href="/img/pieces/arrow.svg" y="85"/>
   <circle cx="537" cy="110" fill="black" r="15" stroke="white" stroke-width="2"/>
-  <image height="16" style="filter: url(#whitenum)" width="16" x="529" xlink:href="/img/pieces/pip-1.svg" y="102"/>
+  <image height="16" style="filter: url(#whitenum)" width="16" x="529" xlink:href="/img/pieces/pips/1.svg" y="102"/>
   <svg height="80" width="64" x="505" y="230">
     <defs/>
     <rect fill="purple" height="80" stroke="white" width="64" x="0" y="0"/>
@@ -254,19 +254,19 @@
   <rect fill="orange" height="102" rx="5" ry="5" width="72" x="575" y="124"/>
   <svg height="100" width="70" x="576" y="125">
     <defs/>
-    <image height="100" width="70" x="0" xlink:href="/img/pieces/1.svg" y="0"/>
+    <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/1.svg" y="0"/>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pip-r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pip-y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pip-b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <image height="70" width="50" x="586" xlink:href="/img/pieces/arrow.svg" y="85"/>
   <circle cx="611" cy="110" fill="black" r="15" stroke="white" stroke-width="2"/>
-  <image height="16" style="filter: url(#whitenum)" width="16" x="603" xlink:href="/img/pieces/pip-1.svg" y="102"/>
+  <image height="16" style="filter: url(#whitenum)" width="16" x="603" xlink:href="/img/pieces/pips/1.svg" y="102"/>
   <svg height="80" width="64" x="579" y="230">
     <defs/>
     <rect fill="darkgreen" height="80" stroke="white" width="64" x="0" y="0"/>
@@ -290,19 +290,19 @@
   <rect fill="orange" height="102" rx="5" ry="5" width="72" x="649" y="124"/>
   <svg height="100" width="70" x="650" y="125">
     <defs/>
-    <image height="100" width="70" x="0" xlink:href="/img/pieces/1.svg" y="0"/>
+    <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/1.svg" y="0"/>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pip-r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pip-y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pip-b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <image height="70" width="50" x="660" xlink:href="/img/pieces/arrow.svg" y="85"/>
   <circle cx="685" cy="110" fill="black" r="15" stroke="white" stroke-width="2"/>
-  <image height="16" style="filter: url(#whitenum)" width="16" x="677" xlink:href="/img/pieces/pip-1.svg" y="102"/>
+  <image height="16" style="filter: url(#whitenum)" width="16" x="677" xlink:href="/img/pieces/pips/1.svg" y="102"/>
   <svg height="60" width="64" x="653" y="230">
     <defs/>
     <rect fill="maroon" height="60" stroke="white" width="64" x="0" y="0"/>
@@ -322,19 +322,19 @@
   <rect fill="orange" height="102" rx="5" ry="5" width="72" x="723" y="124"/>
   <svg height="100" width="70" x="724" y="125">
     <defs/>
-    <image height="100" width="70" x="0" xlink:href="/img/pieces/1.svg" y="0"/>
+    <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/1.svg" y="0"/>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pip-r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pip-y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pip-b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <image height="70" width="50" x="734" xlink:href="/img/pieces/arrow.svg" y="85"/>
   <circle cx="759" cy="110" fill="black" r="15" stroke="white" stroke-width="2"/>
-  <image height="16" style="filter: url(#whitenum)" width="16" x="751" xlink:href="/img/pieces/pip-1.svg" y="102"/>
+  <image height="16" style="filter: url(#whitenum)" width="16" x="751" xlink:href="/img/pieces/pips/1.svg" y="102"/>
   <svg height="60" width="64" x="727" y="230">
     <defs/>
     <rect fill="darkblue" height="60" stroke="white" width="64" x="0" y="0"/>
@@ -354,19 +354,19 @@
   <rect fill="orange" height="102" rx="5" ry="5" width="72" x="797" y="124"/>
   <svg height="100" width="70" x="798" y="125">
     <defs/>
-    <image height="100" width="70" x="0" xlink:href="/img/pieces/1.svg" y="0"/>
+    <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/1.svg" y="0"/>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pip-r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pip-y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pip-b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <image height="70" width="50" x="808" xlink:href="/img/pieces/arrow.svg" y="85"/>
   <circle cx="833" cy="110" fill="black" r="15" stroke="white" stroke-width="2"/>
-  <image height="16" style="filter: url(#whitenum)" width="16" x="825" xlink:href="/img/pieces/pip-1.svg" y="102"/>
+  <image height="16" style="filter: url(#whitenum)" width="16" x="825" xlink:href="/img/pieces/pips/1.svg" y="102"/>
   <text dy="50" fill="#000001" x="442" y="325">Cathy</text>
   <svg height="100" width="70" x="502" y="335">
     <defs/>
@@ -393,11 +393,11 @@
     </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pip-r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pip-y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pip-b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="100" width="70" x="576" y="335">
@@ -425,11 +425,11 @@
     </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pip-r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pip-y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pip-b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="100" width="70" x="650" y="335">
@@ -457,11 +457,11 @@
     </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pip-r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pip-y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pip-b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="100" width="70" x="724" y="335">
@@ -489,11 +489,11 @@
     </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pip-r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pip-y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pip-b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="40" width="64" x="727" y="325">
@@ -533,11 +533,11 @@
     </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pip-r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pip-y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pip-b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
+      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="40" width="64" x="801" y="325">
