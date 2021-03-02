@@ -2,25 +2,25 @@
 <svg baseProfile="full" height="375" version="1.1" viewBox="0 0 862 375" width="862" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <filter id="shadow">
-      <feOffset in="SourceAlpha" dx="2" dy="2" result="offsetblur"/>
-      <feComponentTransfer result="shadow">
+    <feOffset in="SourceAlpha" dx="2" dy="2" result="offsetblur"/>
+    <feComponentTransfer result="shadow">
         <feFuncA type="linear" slope="0.5"/>
-      </feComponentTransfer>
-      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="border"/>
-      <feMerge>
+    </feComponentTransfer>
+    <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="border"/>
+    <feMerge>
         <feMergeNode in="shadow"/>
         <feMergeNode in="border"/>
         <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    </feMerge>
     </filter>
     <linearGradient id="rainbowtext" x1="0" y1="0" x2="100%" y2="0">
-      <stop offset="0" stop-color="#ff7777"></stop>
-      <stop offset="0.25" stop-color="#ffff77"></stop>
-      <stop offset="0.5" stop-color="#77ff77"></stop>
-      <stop offset="0.75" stop-color="#77ffff"></stop>
-      <stop offset="1" stop-color="#7777ff"></stop>
+    <stop offset="0" stop-color="#ff7777"></stop>
+    <stop offset="0.25" stop-color="#ffff77"></stop>
+    <stop offset="0.5" stop-color="#77ff77"></stop>
+    <stop offset="0.75" stop-color="#77ffff"></stop>
+    <stop offset="1" stop-color="#7777ff"></stop>
     </linearGradient>
-  </defs>
+</defs>
   <image height="100" width="70" x="0" xlink:href="/img/pieces/r1.svg" y="50"/>
   <image height="100" width="70" x="72" xlink:href="/img/pieces/back-y.svg" y="50"/>
   <image height="100" width="70" x="144" xlink:href="/img/pieces/back-g.svg" y="50"/>
