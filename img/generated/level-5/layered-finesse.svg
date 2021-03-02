@@ -25,161 +25,36 @@
   <svg height="100" width="70" x="544" y="0">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="100" width="70" x="622" y="0">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="100" width="70" x="700" y="0">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="100" width="70" x="778" y="0">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="100" width="70" x="856" y="0">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <g style="font-size: 1.4em;">
@@ -220,125 +95,29 @@
   <svg height="100" width="70" x="622" y="125">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="100" width="70" x="700" y="125">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="100" width="70" x="778" y="125">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="100" width="70" x="856" y="125">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <g style="font-size: 1.4em;">
@@ -347,33 +126,8 @@
   <svg height="100" width="70" x="544" y="250">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="20" width="64" x="547" y="250">
@@ -387,33 +141,8 @@
   <svg height="100" width="70" x="622" y="250">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="20" width="64" x="625" y="250">
@@ -427,97 +156,22 @@
   <svg height="100" width="70" x="700" y="250">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="100" width="70" x="778" y="250">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
   <svg height="100" width="70" x="856" y="250">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
-    <svg height="20" width="14.0" x="14.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
-    </svg>
-    <svg height="20" width="14.0" x="28.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
-    </svg>
-    <svg height="20" width="14.0" x="42.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
-    </svg>
-    <svg height="20" width="14.0" x="56.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
-    </svg>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-0.0, -20.0)" width="12" x="-6" xlink:href="/img/pieces/pips/r.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-19.02113032590307, -6.180339887498949)" width="12" x="-6" xlink:href="/img/pieces/pips/y.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(-11.755705045849465, 16.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/g.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(11.75570504584946, 16.180339887498953)" width="12" x="-6" xlink:href="/img/pieces/pips/b.svg" y="-6"/>
-      <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
 </svg>
