@@ -19,7 +19,7 @@
   <image height="100" width="70" x="156" xlink:href="/img/pieces/cards/g0.svg" y="0"/>
   <image height="100" width="70" x="234" xlink:href="/img/pieces/cards/b0.svg" y="0"/>
   <image height="100" width="70" x="312" xlink:href="/img/pieces/cards/p0.svg" y="0"/>
-  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="464" y="0">Alice</text>
+  <text dy="57.0" fill="#000001" style="font-size: 1.4em;" x="464" y="0">Alice</text>
   <svg height="100" width="70" x="554" y="0">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -55,7 +55,7 @@
       <defs/>
     </svg>
   </svg>
-  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="464" y="125">Bob</text>
+  <text dy="57.0" fill="#000001" style="font-size: 1.4em;" x="464" y="125">Bob</text>
   <svg height="100" width="70" x="554" y="125">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -91,7 +91,7 @@
       <defs/>
     </svg>
   </svg>
-  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="464" y="250">Cathy</text>
+  <text dy="57.0" fill="#000001" style="font-size: 1.4em;" x="464" y="250">Cathy</text>
   <svg height="100" width="70" x="554" y="250">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -107,7 +107,10 @@
       <defs/>
     </svg>
   </svg>
-  <text dx="22.0" dy="56.0" fill="white" stroke="white" style="font-size: 1.5em; filter: url(#shadow);" x="632" y="250">(2)</text>
+  <svg height="100" width="70" x="632" y="250">
+    <defs/>
+    <text dominant-baseline="central" fill="white" stroke="white" style="font-size: 1.5em; filter: url(#shadow);" text-anchor="middle" x="50%" y="50%">(2)</text>
+  </svg>
   <svg height="100" width="70" x="710" y="250">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -129,7 +132,7 @@
       <defs/>
     </svg>
   </svg>
-  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="464" y="375">Donald</text>
+  <text dy="57.0" fill="#000001" style="font-size: 1.4em;" x="464" y="375">Donald</text>
   <svg height="100" width="70" x="554" y="375">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -145,7 +148,10 @@
       <defs/>
     </svg>
   </svg>
-  <text dx="22.0" dy="56.0" fill="white" stroke="white" style="font-size: 1.5em; filter: url(#shadow);" x="632" y="375">(1)</text>
+  <svg height="100" width="70" x="632" y="375">
+    <defs/>
+    <text dominant-baseline="central" fill="white" stroke="white" style="font-size: 1.5em; filter: url(#shadow);" text-anchor="middle" x="50%" y="50%">(1)</text>
+  </svg>
   <svg height="100" width="70" x="710" y="375">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>

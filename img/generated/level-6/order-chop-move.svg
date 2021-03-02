@@ -13,21 +13,13 @@
             <feMergeNode in="SourceGraphic"/>
         </feMerge>
         </filter>
-        <filter id="whitenum">
-        <feComponentTransfer>
-            <feFuncR type="linear" slope="100"/>
-            <feFuncG type="linear" slope="100"/>
-            <feFuncB type="linear" slope="100"/>
-        </feComponentTransfer>
-        </filter>
-            
     </defs>
   <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/r0.svg" y="0"/>
   <image height="100" width="70" x="78" xlink:href="/img/pieces/cards/y0.svg" y="0"/>
   <image height="100" width="70" x="156" xlink:href="/img/pieces/cards/g0.svg" y="0"/>
   <image height="100" width="70" x="234" xlink:href="/img/pieces/cards/b0.svg" y="0"/>
   <image height="100" width="70" x="312" xlink:href="/img/pieces/cards/p0.svg" y="0"/>
-  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="464" y="0">Alice</text>
+  <text dy="57.0" fill="#000001" style="font-size: 1.4em;" x="464" y="0">Alice</text>
   <svg height="100" width="70" x="554" y="0">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -63,7 +55,19 @@
       <defs/>
     </svg>
   </svg>
-  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="464" y="125">Bob</text>
+  <svg height="40" width="64" x="869" y="0">
+    <defs/>
+    <rect fill="maroon" height="40" stroke="white" width="64" x="0" y="0"/>
+    <svg height="20" width="64" x="0" y="0">
+      <defs/>
+      <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Chop</text>
+    </svg>
+    <svg height="20" width="64" x="0" y="20">
+      <defs/>
+      <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Move</text>
+    </svg>
+  </svg>
+  <text dy="57.0" fill="#000001" style="font-size: 1.4em;" x="464" y="125">Bob</text>
   <rect fill="orange" height="104" rx="5" ry="5" width="74" x="552.0" y="123.0"/>
   <svg height="100" width="70" x="554" y="125">
     <defs/>
@@ -74,10 +78,13 @@
   </svg>
   <image height="70" width="50" x="564" xlink:href="/img/pieces/arrow.svg" y="85"/>
   <circle cx="589" cy="110" fill="black" r="15" stroke="white" stroke-width="2"/>
-  <image height="16" style="filter: url(#whitenum)" width="16" x="581" xlink:href="/img/pieces/pips/1.svg" y="102"/>
+  <svg height="16" width="16" x="581" y="102">
+    <defs/>
+    <text dominant-baseline="central" fill="white" style="font-size: 1.4em;" text-anchor="middle" x="50%" y="50%">1</text>
+  </svg>
   <svg height="60" width="64" x="557" y="230">
     <defs/>
-    <rect fill="maroon" height="60" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="maroon" height="60" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Chop</text>
@@ -101,10 +108,13 @@
   </svg>
   <image height="70" width="50" x="642" xlink:href="/img/pieces/arrow.svg" y="85"/>
   <circle cx="667" cy="110" fill="black" r="15" stroke="white" stroke-width="2"/>
-  <image height="16" style="filter: url(#whitenum)" width="16" x="659" xlink:href="/img/pieces/pips/1.svg" y="102"/>
+  <svg height="16" width="16" x="659" y="102">
+    <defs/>
+    <text dominant-baseline="central" fill="white" style="font-size: 1.4em;" text-anchor="middle" x="50%" y="50%">1</text>
+  </svg>
   <svg height="60" width="64" x="635" y="230">
     <defs/>
-    <rect fill="darkgreen" height="60" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="darkgreen" height="60" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Chop</text>
@@ -128,7 +138,10 @@
   </svg>
   <image height="70" width="50" x="720" xlink:href="/img/pieces/arrow.svg" y="85"/>
   <circle cx="745" cy="110" fill="black" r="15" stroke="white" stroke-width="2"/>
-  <image height="16" style="filter: url(#whitenum)" width="16" x="737" xlink:href="/img/pieces/pips/1.svg" y="102"/>
+  <svg height="16" width="16" x="737" y="102">
+    <defs/>
+    <text dominant-baseline="central" fill="white" style="font-size: 1.4em;" text-anchor="middle" x="50%" y="50%">1</text>
+  </svg>
   <svg height="100" width="70" x="788" y="125">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -143,7 +156,7 @@
       <defs/>
     </svg>
   </svg>
-  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="464" y="305">Cathy</text>
+  <text dy="57.0" fill="#000001" style="font-size: 1.4em;" x="464" y="305">Cathy</text>
   <svg height="100" width="70" x="554" y="305">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -177,6 +190,18 @@
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <svg height="100" viewBox="-35 -50 70 100" width="70" x="0" y="0">
       <defs/>
+    </svg>
+  </svg>
+  <svg height="40" width="64" x="869" y="305">
+    <defs/>
+    <rect fill="darkgreen" height="40" stroke="white" width="64" x="0" y="0"/>
+    <svg height="20" width="64" x="0" y="0">
+      <defs/>
+      <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Chop</text>
+    </svg>
+    <svg height="20" width="64" x="0" y="20">
+      <defs/>
+      <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Move</text>
     </svg>
   </svg>
 </svg>

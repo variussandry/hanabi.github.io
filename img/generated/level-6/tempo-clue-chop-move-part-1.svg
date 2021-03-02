@@ -19,7 +19,7 @@
   <image height="100" width="70" x="156" xlink:href="/img/pieces/cards/g0.svg" y="0"/>
   <image height="100" width="70" x="234" xlink:href="/img/pieces/cards/b0.svg" y="0"/>
   <image height="100" width="70" x="312" xlink:href="/img/pieces/cards/p0.svg" y="0"/>
-  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="464" y="0">Alice</text>
+  <text dy="57.0" fill="#000001" style="font-size: 1.4em;" x="464" y="0">Alice</text>
   <svg height="100" width="70" x="554" y="0">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -55,7 +55,7 @@
       <defs/>
     </svg>
   </svg>
-  <text dy="57.0" fill="#f5f6f7" style="font-size: 1.4em;" x="464" y="125">Bob</text>
+  <text dy="57.0" fill="#000001" style="font-size: 1.4em;" x="464" y="125">Bob</text>
   <rect fill="orange" height="104" rx="5" ry="5" width="74" x="552.0" y="123.0"/>
   <svg height="100" width="70" x="554" y="125">
     <defs/>
@@ -97,6 +97,6 @@
       <defs/>
     </svg>
   </svg>
-  <text dy="20" fill="#f5f6f7" x="504" y="250">After Bob plays the red 1...</text>
+  <text dy="20" fill="#000001" x="504" y="250">After Bob plays the red 1...</text>
 </svg>
 
