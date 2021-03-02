@@ -14,14 +14,12 @@
         </feMerge>
         </filter>
     </defs>
-  <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/r1.svg" y="50"/>
-  <image height="100" width="70" x="74" xlink:href="/img/pieces/cards/y1.svg" y="50"/>
-  <image height="100" width="70" x="148" xlink:href="/img/pieces/cards/g1.svg" y="50"/>
-  <image height="100" width="70" x="222" xlink:href="/img/pieces/cards/b1.svg" y="50"/>
-  <image height="100" width="70" x="296" xlink:href="/img/pieces/cards/p1.svg" y="50"/>
+  <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/r1.svg" y="0"/>
+  <image height="100" width="70" x="74" xlink:href="/img/pieces/cards/y1.svg" y="0"/>
+  <image height="100" width="70" x="148" xlink:href="/img/pieces/cards/g1.svg" y="0"/>
+  <image height="100" width="70" x="222" xlink:href="/img/pieces/cards/b1.svg" y="0"/>
+  <image height="100" width="70" x="296" xlink:href="/img/pieces/cards/p1.svg" y="0"/>
   <text dy="50" fill="#000001" x="444" y="0">Alice</text>
-  <text dy="70" fill="#000001" x="444" y="0">(clue</text>
-  <text dy="90" fill="#000001" x="444" y="0">giver)</text>
   <svg height="100" width="70" x="504" y="10">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
