@@ -190,7 +190,7 @@
   </svg>
   <svg height="40" width="64" x="801" y="0">
     <defs/>
-    <rect fill="maroon" height="40" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="maroon" height="40" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Chop</text>
@@ -221,7 +221,7 @@
   <image height="16" style="filter: url(#whitenum)" width="16" x="529" xlink:href="/img/pieces/pip-1.svg" y="102"/>
   <svg height="60" width="64" x="505" y="230">
     <defs/>
-    <rect fill="maroon" height="60" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="maroon" height="60" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Chop</text>
@@ -253,7 +253,7 @@
   <image height="16" style="filter: url(#whitenum)" width="16" x="603" xlink:href="/img/pieces/pip-1.svg" y="102"/>
   <svg height="60" width="64" x="579" y="230">
     <defs/>
-    <rect fill="darkgreen" height="60" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="darkgreen" height="60" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Chop</text>
@@ -286,10 +286,6 @@
   <svg height="100" width="70" x="724" y="135">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
     <svg height="20" width="14.0" x="14.0" y="80">
       <defs/>
       <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
@@ -318,10 +314,6 @@
   <svg height="100" width="70" x="798" y="135">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-    <svg height="20" width="14.0" x="0.0" y="80">
-      <defs/>
-      <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">1</text>
-    </svg>
     <svg height="20" width="14.0" x="14.0" y="80">
       <defs/>
       <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">2</text>
@@ -510,7 +502,7 @@
   </svg>
   <svg height="40" width="64" x="801" y="305">
     <defs/>
-    <rect fill="darkgreen" height="40" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="darkgreen" height="40" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Chop</text>

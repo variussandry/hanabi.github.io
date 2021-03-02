@@ -217,7 +217,7 @@
   </svg>
   <svg height="20" width="64" x="505" y="125">
     <defs/>
-    <rect fill="red" height="20" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="red" height="20" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Red 1</text>
@@ -257,7 +257,7 @@
   </svg>
   <svg height="20" width="64" x="579" y="125">
     <defs/>
-    <rect fill="red" height="20" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="red" height="20" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Red 2</text>

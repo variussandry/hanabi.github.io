@@ -277,7 +277,7 @@
   </svg>
   <svg height="40" width="64" x="653" y="125">
     <defs/>
-    <rect fill="darkred" height="40" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="darkred" height="40" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Chop</text>
@@ -305,7 +305,7 @@
   <image height="16" style="filter: url(#whitenum)" width="16" x="751" xlink:href="/img/pieces/pip-1.svg" y="102"/>
   <svg height="20" width="64" x="727" y="230">
     <defs/>
-    <rect fill="peru" height="20" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="peru" height="20" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Trash</text>
@@ -341,7 +341,7 @@
   </svg>
   <svg height="20" width="64" x="801" y="230">
     <defs/>
-    <rect fill="black" height="20" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="black" height="20" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Save</text>
@@ -384,7 +384,7 @@
   <image height="16" style="filter: url(#shadow)" width="16" x="529" xlink:href="/img/pieces/pip-b.svg" y="302"/>
   <svg height="20" width="64" x="505" y="430">
     <defs/>
-    <rect fill="gold" height="20" rx="5" ry="5" stroke="black" width="64" x="0" y="0"/>
+    <rect fill="gold" height="20" stroke="black" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="black" text-anchor="middle" x="50%" y="50%">Focus</text>
@@ -474,7 +474,7 @@
   </svg>
   <svg height="40" width="64" x="727" y="325">
     <defs/>
-    <rect fill="darkred" height="40" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="darkred" height="40" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Chop</text>
@@ -513,7 +513,7 @@
   <image height="16" style="filter: url(#shadow)" width="16" x="825" xlink:href="/img/pieces/pip-b.svg" y="302"/>
   <svg height="20" width="64" x="801" y="430">
     <defs/>
-    <rect fill="black" height="20" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
+    <rect fill="black" height="20" stroke="white" width="64" x="0" y="0"/>
     <svg height="20" width="64" x="0" y="0">
       <defs/>
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Save</text>
