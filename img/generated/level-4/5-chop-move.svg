@@ -14,7 +14,6 @@
       </feMerge>
     </filter>
   </defs>
-  <text dy="30" fill="#000001" font-size="24" x="20">5 Chop Move</text>
   <image height="100" width="70" x="0" xlink:href="/img/pieces/r1.svg" y="50"/>
   <image height="100" width="70" x="72" xlink:href="/img/pieces/y1.svg" y="50"/>
   <image height="100" width="70" x="144" xlink:href="/img/pieces/g1.svg" y="50"/>

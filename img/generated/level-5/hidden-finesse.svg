@@ -21,7 +21,6 @@
       <stop offset="1" stop-color="#7777ff"></stop>
     </linearGradient>
   </defs>
-  <text dy="30" fill="#000001" font-size="24" x="20">Hidden Finesse</text>
   <image height="100" width="70" x="0" xlink:href="/img/pieces/r1.svg" y="50"/>
   <image height="100" width="70" x="72" xlink:href="/img/pieces/back-y.svg" y="50"/>
   <image height="100" width="70" x="144" xlink:href="/img/pieces/back-g.svg" y="50"/>
