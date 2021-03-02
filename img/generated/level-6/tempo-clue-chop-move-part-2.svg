@@ -13,6 +13,14 @@
         <feMergeNode in="SourceGraphic"/>
     </feMerge>
     </filter>
+      <filter id="whitenum">
+      <feComponentTransfer>
+        <feFuncR type="linear" slope="100"/>
+        <feFuncG type="linear" slope="100"/>
+        <feFuncB type="linear" slope="100"/>
+      </feComponentTransfer>
+    </filter>
+        
 </defs>
   <image height="100" width="70" x="0" xlink:href="/img/pieces/r1.svg" y="50"/>
   <image height="100" width="70" x="74" xlink:href="/img/pieces/back-y.svg" y="50"/>
@@ -55,7 +63,9 @@
   </svg>
   <rect fill="orange" height="102" rx="5" ry="5" width="72" x="575" y="29"/>
   <image height="100" width="70" x="576" xlink:href="/img/pieces/r2.svg" y="30"/>
-  <image height="70" width="50" x="586" xlink:href="/img/pieces/clue-2.png" y="-10"/>
+  <image height="70" width="50" x="586" xlink:href="/img/pieces/arrow.svg" y="-10"/>
+  <circle cx="611" cy="15" fill="black" r="15" stroke="white" stroke-width="2"/>
+  <image height="16" style="filter: url(#whitenum)" width="16" x="603" xlink:href="/img/pieces/pip-2.svg" y="7"/>
   <svg height="100" width="70" x="650" y="40">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>

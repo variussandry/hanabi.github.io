@@ -448,7 +448,9 @@
       <defs/>
     </svg>
   </svg>
-  <image height="70" width="50" x="734" xlink:href="/img/pieces/clue-r.png" y="255"/>
+  <image height="70" width="50" x="734" xlink:href="/img/pieces/arrow.svg" y="255"/>
+  <circle cx="759" cy="280" fill="red" r="15" stroke="black" stroke-width="2"/>
+  <image height="16" style="filter: url(#shadow)" width="16" x="751" xlink:href="/img/pieces/pip-r.svg" y="272"/>
   <text dy="30" fill="white" stroke="white" style="filter: url(#shadow)" x="759" y="295">(4)</text>
   <svg height="100" width="70" x="798" y="305">
     <defs/>

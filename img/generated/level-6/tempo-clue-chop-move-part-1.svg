@@ -211,7 +211,9 @@
       <defs/>
     </svg>
   </svg>
-  <image height="70" width="50" x="512" xlink:href="/img/pieces/clue-r.png" y="85"/>
+  <image height="70" width="50" x="512" xlink:href="/img/pieces/arrow.svg" y="85"/>
+  <circle cx="537" cy="110" fill="red" r="15" stroke="black" stroke-width="2"/>
+  <image height="16" style="filter: url(#shadow)" width="16" x="529" xlink:href="/img/pieces/pip-r.svg" y="102"/>
   <rect fill="orange" height="102" rx="5" ry="5" width="72" x="575" y="124"/>
   <svg height="100" width="70" x="576" y="125">
     <defs/>
@@ -240,7 +242,9 @@
       <defs/>
     </svg>
   </svg>
-  <image height="70" width="50" x="586" xlink:href="/img/pieces/clue-r.png" y="85"/>
+  <image height="70" width="50" x="586" xlink:href="/img/pieces/arrow.svg" y="85"/>
+  <circle cx="611" cy="110" fill="red" r="15" stroke="black" stroke-width="2"/>
+  <image height="16" style="filter: url(#shadow)" width="16" x="603" xlink:href="/img/pieces/pip-r.svg" y="102"/>
   <svg height="100" width="70" x="650" y="135">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>

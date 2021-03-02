@@ -463,7 +463,9 @@
       <defs/>
     </svg>
   </svg>
-  <image height="70" width="50" x="660" xlink:href="/img/pieces/clue-r.png" y="225"/>
+  <image height="70" width="50" x="660" xlink:href="/img/pieces/arrow.svg" y="225"/>
+  <circle cx="685" cy="250" fill="red" r="15" stroke="black" stroke-width="2"/>
+  <image height="16" style="filter: url(#shadow)" width="16" x="677" xlink:href="/img/pieces/pip-r.svg" y="242"/>
   <text dy="30" fill="white" stroke="white" style="filter: url(#shadow)" x="685" y="265">(3)</text>
   <svg height="100" width="70" x="724" y="275">
     <defs/>

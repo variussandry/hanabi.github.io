@@ -13,6 +13,14 @@
         <feMergeNode in="SourceGraphic"/>
     </feMerge>
     </filter>
+      <filter id="whitenum">
+      <feComponentTransfer>
+        <feFuncR type="linear" slope="100"/>
+        <feFuncG type="linear" slope="100"/>
+        <feFuncB type="linear" slope="100"/>
+      </feComponentTransfer>
+    </filter>
+        
 </defs>
   <image height="100" width="70" x="0" xlink:href="/img/pieces/back-r.svg" y="50"/>
   <image height="100" width="70" x="74" xlink:href="/img/pieces/back-y.svg" y="50"/>
@@ -208,7 +216,9 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
     </svg>
   </svg>
-  <image height="70" width="50" x="512" xlink:href="/img/pieces/clue-1.png" y="85"/>
+  <image height="70" width="50" x="512" xlink:href="/img/pieces/arrow.svg" y="85"/>
+  <circle cx="537" cy="110" fill="black" r="15" stroke="white" stroke-width="2"/>
+  <image height="16" style="filter: url(#whitenum)" width="16" x="529" xlink:href="/img/pieces/pip-1.svg" y="102"/>
   <svg height="60" width="64" x="505" y="230">
     <defs/>
     <rect fill="maroon" height="60" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
@@ -238,7 +248,9 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
     </svg>
   </svg>
-  <image height="70" width="50" x="586" xlink:href="/img/pieces/clue-1.png" y="85"/>
+  <image height="70" width="50" x="586" xlink:href="/img/pieces/arrow.svg" y="85"/>
+  <circle cx="611" cy="110" fill="black" r="15" stroke="white" stroke-width="2"/>
+  <image height="16" style="filter: url(#whitenum)" width="16" x="603" xlink:href="/img/pieces/pip-1.svg" y="102"/>
   <svg height="60" width="64" x="579" y="230">
     <defs/>
     <rect fill="darkgreen" height="60" rx="5" ry="5" stroke="white" width="64" x="0" y="0"/>
@@ -268,7 +280,9 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(19.021130325903073, -6.180339887498945)" width="12" x="-6" xlink:href="/img/pieces/pip-p.svg" y="-6"/>
     </svg>
   </svg>
-  <image height="70" width="50" x="660" xlink:href="/img/pieces/clue-1.png" y="85"/>
+  <image height="70" width="50" x="660" xlink:href="/img/pieces/arrow.svg" y="85"/>
+  <circle cx="685" cy="110" fill="black" r="15" stroke="white" stroke-width="2"/>
+  <image height="16" style="filter: url(#whitenum)" width="16" x="677" xlink:href="/img/pieces/pip-1.svg" y="102"/>
   <svg height="100" width="70" x="724" y="135">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
