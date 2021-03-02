@@ -21,7 +21,7 @@
   <image height="100" width="70" x="296" xlink:href="/img/pieces/cards/p0.svg" y="50"/>
   <image height="100" width="70" x="370" xlink:href="/img/pieces/cards/m0.svg" y="50"/>
   <text dy="20" fill="#000001" x="556" y="0"/>
-  <text dy="50" fill="#000001" x="516" y="30">Alice</text>
+  <text dy="50" fill="#000001" x="516" y="30">Bob</text>
   <text dy="70" fill="#000001" x="516" y="30">(clue</text>
   <text dy="90" fill="#000001" x="516" y="30">giver)</text>
   <svg height="100" width="70" x="576" y="40">
@@ -189,7 +189,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.32050807568878, -9.999999999999986)" width="12" x="-6" xlink:href="/img/pieces/pips/m.svg" y="-6"/>
     </svg>
   </svg>
-  <text dy="50" fill="#000001" x="516" y="155">Bob</text>
+  <text dy="50" fill="#000001" x="516" y="155">Cathy</text>
   <rect fill="orange" height="102" rx="5" ry="5" width="72" x="575" y="154"/>
   <svg height="100" width="70" x="576" y="155">
     <defs/>
@@ -357,7 +357,7 @@
       <image height="12" style="filter: url(#shadow)" transform="translate(17.320508075688767, 10.000000000000009)" width="12" x="-6" xlink:href="/img/pieces/pips/p.svg" y="-6"/>
     </svg>
   </svg>
-  <text dy="50" fill="#000001" x="516" y="295">Cathy</text>
+  <text dy="50" fill="#000001" x="516" y="295">Donald</text>
   <svg height="100" width="70" x="576" y="305">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>

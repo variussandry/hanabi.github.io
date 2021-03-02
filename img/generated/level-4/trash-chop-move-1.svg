@@ -348,7 +348,7 @@
     </svg>
   </svg>
   <text dy="30" fill="white" stroke="white" style="filter: url(#shadow)" x="833" y="125">(CM)</text>
-  <text dy="20" fill="#000001" x="482" y="265">After discarding 1</text>
+  <text dy="20" fill="#000001" x="482" y="265">After discarding the 1...</text>
   <text dy="50" fill="#000001" x="442" y="295">Bob</text>
   <svg height="100" width="70" x="502" y="305">
     <defs/>

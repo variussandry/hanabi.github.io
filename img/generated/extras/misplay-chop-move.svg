@@ -340,7 +340,7 @@
     </svg>
   </svg>
   <text dy="20" fill="#000001" x="482" y="250">After Red 4 bombs</text>
-  <text dy="50" fill="#000001" x="442" y="280">Bob</text>
+  <text dy="50" fill="#000001" x="442" y="280">Donald</text>
   <svg height="100" width="70" x="502" y="290">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
