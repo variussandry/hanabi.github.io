@@ -56,14 +56,14 @@
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="630.0" y="123.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="629.0" y="122.0"/>
   <svg height="100" width="70" x="632" y="125">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/y.svg" y="0"/>
   </svg>
   <image height="70" width="50" x="642" xlink:href="/img/pieces/arrow.svg" y="85"/>
   <circle cx="667" cy="110" fill="yellow" r="15" stroke="black" stroke-width="2"/>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="708.0" y="123.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="707.0" y="122.0"/>
   <svg height="100" width="70" x="710" y="125">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/y.svg" y="0"/>

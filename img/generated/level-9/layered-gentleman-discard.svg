@@ -100,7 +100,7 @@
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="708.0" y="248.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="707.0" y="247.0"/>
   <image height="100" width="70" x="710" xlink:href="/img/pieces/cards/r1.svg" y="250"/>
   <image height="70" width="50" x="720" xlink:href="/img/pieces/arrow.svg" y="210"/>
   <circle cx="745" cy="235" fill="red" r="15" stroke="black" stroke-width="2"/>
@@ -112,7 +112,7 @@
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Discards</text>
     </svg>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="786.0" y="248.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="785.0" y="247.0"/>
   <svg height="100" width="70" x="788" y="250">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/r.svg" y="0"/>

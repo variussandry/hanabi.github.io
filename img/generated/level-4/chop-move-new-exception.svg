@@ -68,14 +68,14 @@
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Chop</text>
     </svg>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="786.0" y="173.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="785.0" y="172.0"/>
   <svg height="100" width="70" x="788" y="175">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
     <image height="12" style="filter: url(#shadow)" width="12" x="29.0" xlink:href="/img/pieces/pips/r.svg" y="24.0"/>
     <image height="12" style="filter: url(#shadow)" width="12" x="46.32050807568878" xlink:href="/img/pieces/pips/m.svg" y="34.000000000000014"/>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="864.0" y="173.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="863.0" y="172.0"/>
   <svg height="100" width="70" x="866" y="175">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -145,21 +145,21 @@
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Chop</text>
     </svg>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="786.0" y="473.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="785.0" y="472.0"/>
   <svg height="100" width="70" x="788" y="475">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/m.svg" y="0"/>
   </svg>
   <image height="70" width="50" x="798" xlink:href="/img/pieces/arrow.svg" y="435"/>
   <circle cx="823" cy="460" fill="blue" r="15" stroke="black" stroke-width="2"/>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="864.0" y="473.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="863.0" y="472.0"/>
   <svg height="100" width="70" x="866" y="475">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/m.svg" y="0"/>
   </svg>
   <image height="70" width="50" x="876" xlink:href="/img/pieces/arrow.svg" y="435"/>
   <circle cx="901" cy="460" fill="blue" r="15" stroke="black" stroke-width="2"/>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="942.0" y="473.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="941.0" y="472.0"/>
   <svg height="100" width="70" x="944" y="475">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/b.svg" y="0"/>

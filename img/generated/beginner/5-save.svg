@@ -68,7 +68,7 @@
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="864.0" y="123.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="863.0" y="122.0"/>
   <svg height="100" width="70" x="866" y="125">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/5.svg" y="0"/>

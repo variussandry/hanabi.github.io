@@ -64,17 +64,21 @@
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="786.0" y="123.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="785.0" y="122.0"/>
   <svg height="100" width="70" x="788" y="125">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/y.svg" y="0"/>
   </svg>
   <image height="70" width="50" x="798" xlink:href="/img/pieces/arrow.svg" y="85"/>
   <circle cx="823" cy="110" fill="yellow" r="15" stroke="black" stroke-width="2"/>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="864.0" y="123.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="863.0" y="122.0"/>
   <svg height="100" width="70" x="866" y="125">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/5.svg" y="0"/>
+    <image height="12" style="filter: url(#shadow)" width="12" x="29.0" xlink:href="/img/pieces/pips/r.svg" y="24.0"/>
+    <image height="12" style="filter: url(#shadow)" width="12" x="17.244294954150533" xlink:href="/img/pieces/pips/g.svg" y="60.180339887498945"/>
+    <image height="12" style="filter: url(#shadow)" width="12" x="40.75570504584946" xlink:href="/img/pieces/pips/b.svg" y="60.18033988749895"/>
+    <image height="12" style="filter: url(#shadow)" width="12" x="48.02113032590307" xlink:href="/img/pieces/pips/p.svg" y="37.819660112501055"/>
   </svg>
   <image height="200" opacity="0.2" width="200" x="91.0" xlink:href="/img/pieces/trashcan.png" y="120"/>
   <image height="100" width="70" x="156.0" xlink:href="/img/pieces/cards/y4.svg" y="170.0"/>

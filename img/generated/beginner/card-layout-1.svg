@@ -26,29 +26,19 @@
     <defs/>
     <text dominant-baseline="central" fill="#000001" style="font-size: 1.4em;" x="0%" y="50%">Alice</text>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="552.0" y="-2.0"/>
   <image height="100" width="70" x="554" xlink:href="/img/pieces/cards/b1.svg" y="0"/>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="630.0" y="-2.0"/>
   <image height="100" width="70" x="632" xlink:href="/img/pieces/cards/b2.svg" y="0"/>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="708.0" y="-2.0"/>
   <image height="100" width="70" x="710" xlink:href="/img/pieces/cards/b3.svg" y="0"/>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="786.0" y="-2.0"/>
   <image height="100" width="70" x="788" xlink:href="/img/pieces/cards/b3.svg" y="0"/>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="864.0" y="-2.0"/>
   <image height="100" width="70" x="866" xlink:href="/img/pieces/cards/b5.svg" y="0"/>
   <svg height="100" width="90" x="464" y="125">
     <defs/>
     <text dominant-baseline="central" fill="#000001" style="font-size: 1.4em;" x="0%" y="50%">Bob</text>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="552.0" y="123.0"/>
   <image height="100" width="70" x="554" xlink:href="/img/pieces/cards/r1.svg" y="125"/>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="630.0" y="123.0"/>
   <image height="100" width="70" x="632" xlink:href="/img/pieces/cards/r2.svg" y="125"/>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="708.0" y="123.0"/>
   <image height="100" width="70" x="710" xlink:href="/img/pieces/cards/r3.svg" y="125"/>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="786.0" y="123.0"/>
   <image height="100" width="70" x="788" xlink:href="/img/pieces/cards/r4.svg" y="125"/>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="864.0" y="123.0"/>
   <image height="100" width="70" x="866" xlink:href="/img/pieces/cards/r5.svg" y="125"/>
 </svg>
 

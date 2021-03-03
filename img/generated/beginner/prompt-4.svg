@@ -56,16 +56,16 @@
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="630.0" y="123.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="629.0" y="122.0"/>
   <svg height="100" width="70" x="632" y="125">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/3.svg" y="0"/>
   </svg>
   <svg height="100" width="70" x="632" y="125">
     <defs/>
-    <text dominant-baseline="central" fill="cyan" stroke="cyan" style="font-size: 1.5em; filter: url(#shadow);" text-anchor="middle" x="50%" y="50%">(B)</text>
+    <text dominant-baseline="central" fill="deepskyblue" stroke="deepskyblue" style="font-size: 1.5em; filter: url(#shadow);" text-anchor="middle" x="50%" y="50%">(B)</text>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="708.0" y="123.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="707.0" y="122.0"/>
   <svg height="100" width="70" x="710" y="125">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/3.svg" y="0"/>
@@ -74,14 +74,14 @@
     <defs/>
     <text dominant-baseline="central" fill="lightgreen" stroke="lightgreen" style="font-size: 1.5em; filter: url(#shadow);" text-anchor="middle" x="50%" y="50%">(G)</text>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="786.0" y="123.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="785.0" y="122.0"/>
   <svg height="100" width="70" x="788" y="125">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/3.svg" y="0"/>
   </svg>
   <svg height="100" width="70" x="788" y="125">
     <defs/>
-    <text dominant-baseline="central" fill="red" stroke="red" style="font-size: 1.5em; filter: url(#shadow);" text-anchor="middle" x="50%" y="50%">(R)</text>
+    <text dominant-baseline="central" fill="salmon" stroke="salmon" style="font-size: 1.5em; filter: url(#shadow);" text-anchor="middle" x="50%" y="50%">(R)</text>
   </svg>
   <svg height="100" width="70" x="866" y="125">
     <defs/>
@@ -99,7 +99,7 @@
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="708.0" y="248.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="707.0" y="247.0"/>
   <svg height="100" width="70" x="710" y="250">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/r.svg" y="0"/>

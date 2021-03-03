@@ -80,7 +80,7 @@
     <text dominant-baseline="central" dy="30" fill="black" filter="url(#cluegiver)" x="0%" y="50%">clue giver</text>
     <text dominant-baseline="central" dy="30" fill="black" x="0%" y="50%">clue giver</text>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="552.0" y="123.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="551.0" y="122.0"/>
   <svg height="100" width="70" x="554" y="125">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/1.svg" y="0"/>
@@ -111,7 +111,7 @@
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Alice</text>
     </svg>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="630.0" y="123.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="629.0" y="122.0"/>
   <svg height="100" width="70" x="632" y="125">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/1.svg" y="0"/>
@@ -142,7 +142,7 @@
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Cathy</text>
     </svg>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="708.0" y="123.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="707.0" y="122.0"/>
   <svg height="100" width="70" x="710" y="125">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/1.svg" y="0"/>
@@ -169,7 +169,7 @@
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Alice</text>
     </svg>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="786.0" y="123.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="785.0" y="122.0"/>
   <svg height="100" width="70" x="788" y="125">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/1.svg" y="0"/>
@@ -196,7 +196,7 @@
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Cathy</text>
     </svg>
   </svg>
-  <rect fill="orange" height="104" rx="5" ry="5" width="74" x="864.0" y="123.0"/>
+  <rect fill="orange" height="106" rx="5" ry="5" width="76" x="863.0" y="122.0"/>
   <svg height="100" width="70" x="866" y="125">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/1.svg" y="0"/>
