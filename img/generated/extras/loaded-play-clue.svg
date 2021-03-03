@@ -151,7 +151,8 @@
       <text dominant-baseline="central" fill="white" text-anchor="middle" x="50%" y="50%">Playable</text>
     </svg>
   </svg>
-  <image height="100" width="70" x="0" xlink:href="/img/pieces/trashcan.png" y="240"/>
-  <image height="100" width="70" x="78" xlink:href="/img/pieces/cards/b4.svg" y="240"/>
+  <image height="200" opacity="0.2" width="200" x="91.0" xlink:href="/img/pieces/trashcan.png" y="120"/>
+  <image height="100" width="70" x="156.0" xlink:href="/img/pieces/cards/b4.svg" y="170.0"/>
+  <rect fill="none" height="200" rx="10" ry="10" stroke="darkgreen" stroke-width="2" width="200" x="91.0" y="120"/>
 </svg>
 
