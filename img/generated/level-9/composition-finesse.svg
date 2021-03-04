@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="750" version="1.1" viewBox="0 0 944 750" width="944" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-        <filter x="0" y="0" width="1" height="1" id="cluegiver">
+        <filter x="0" y="0" width="1" height="1" id="clue_giver">
             <feFlood flood-color="cyan"/>
         </filter>
         <filter id="shadow">
@@ -25,7 +25,7 @@
   <svg height="100" width="90" x="464" y="0">
     <defs/>
     <text dominant-baseline="central" fill="#000001" style="font-size: 1.4em;" x="0%" y="50%">Alice</text>
-    <text dominant-baseline="central" dy="30" fill="black" filter="url(#cluegiver)" x="0%" y="50%">clue giver</text>
+    <text dominant-baseline="central" dy="30" fill="black" filter="url(#clue_giver)" x="0%" y="50%">clue giver</text>
     <text dominant-baseline="central" dy="30" fill="black" x="0%" y="50%">clue giver</text>
   </svg>
   <svg height="100" width="70" x="554" y="0">
