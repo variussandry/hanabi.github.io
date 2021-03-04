@@ -17,11 +17,11 @@
             </feMerge>
         </filter>
         <linearGradient id="rainbowtext" x1="0" y1="0" x2="100%" y2="0">
-        <stop offset="0" stop-color="#ff7777"></stop>
-        <stop offset="0.25" stop-color="#ffff77"></stop>
-        <stop offset="0.5" stop-color="#77ff77"></stop>
-        <stop offset="0.75" stop-color="#77ffff"></stop>
-        <stop offset="1" stop-color="#7777ff"></stop>
+            <stop offset="0" stop-color="#ff7777"></stop>
+            <stop offset="0.25" stop-color="#ffff77"></stop>
+            <stop offset="0.5" stop-color="#77ff77"></stop>
+            <stop offset="0.75" stop-color="#77ffff"></stop>
+            <stop offset="1" stop-color="#7777ff"></stop>
         </linearGradient>
     </defs>
   <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/r1.svg" y="0"/>

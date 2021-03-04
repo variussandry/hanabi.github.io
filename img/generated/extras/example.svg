@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="625" version="1.1" viewBox="0 0 944 625" width="944" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg baseProfile="full" height="625" version="1.1" viewBox="0 0 866 625" width="866" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
         <filter x="0" y="0" width="1" height="1" id="cluegiver">
             <feFlood flood-color="cyan"/>
@@ -44,10 +44,6 @@
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
   </svg>
-  <svg height="100" width="70" x="866" y="0">
-    <defs/>
-    <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-  </svg>
   <svg height="100" width="90" x="464" y="125">
     <defs/>
     <text dominant-baseline="central" fill="#000001" style="font-size: 1.4em;" x="0%" y="50%">Bob</text>
@@ -65,10 +61,6 @@
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
   </svg>
   <svg height="100" width="70" x="788" y="125">
-    <defs/>
-    <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-  </svg>
-  <svg height="100" width="70" x="866" y="125">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
   </svg>
@@ -92,10 +84,6 @@
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
   </svg>
-  <svg height="100" width="70" x="866" y="250">
-    <defs/>
-    <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-  </svg>
   <svg height="100" width="90" x="464" y="375">
     <defs/>
     <text dominant-baseline="central" fill="#000001" style="font-size: 1.4em;" x="0%" y="50%">Donald</text>
@@ -116,10 +104,6 @@
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
   </svg>
-  <svg height="100" width="70" x="866" y="375">
-    <defs/>
-    <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-  </svg>
   <svg height="100" width="90" x="464" y="500">
     <defs/>
     <text dominant-baseline="central" fill="#000001" style="font-size: 1.4em;" x="0%" y="50%">Emily</text>
@@ -137,10 +121,6 @@
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
   </svg>
   <svg height="100" width="70" x="788" y="500">
-    <defs/>
-    <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
-  </svg>
-  <svg height="100" width="70" x="866" y="500">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
   </svg>

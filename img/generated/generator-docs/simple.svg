@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg baseProfile="full" height="250" version="1.1" viewBox="0 0 632 250" width="632" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+        <filter x="0" y="0" width="1" height="1" id="cluegiver">
+            <feFlood flood-color="cyan"/>
+        </filter>
+        <filter id="shadow">
+            <feOffset in="SourceAlpha" dx="2" dy="2" result="offsetblur"/>
+            <feComponentTransfer result="shadow">
+                <feFuncA type="linear" slope="0.5"/>
+            </feComponentTransfer>
+            <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="border"/>
+            <feMerge>
+                <feMergeNode in="shadow"/>
+                <feMergeNode in="border"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+  <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/r1.svg" y="0"/>
+  <image height="100" width="70" x="78" xlink:href="/img/pieces/cards/y0.svg" y="0"/>
+  <image height="100" width="70" x="156" xlink:href="/img/pieces/cards/g3.svg" y="0"/>
+  <svg height="100" width="90" x="308" y="0">
+    <defs/>
+    <text dominant-baseline="central" fill="#000001" style="font-size: 1.4em;" x="0%" y="50%">Alice</text>
+  </svg>
+  <svg height="100" width="70" x="398" y="0">
+    <defs/>
+    <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
+  </svg>
+  <svg height="100" width="70" x="476" y="0">
+    <defs/>
+    <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
+  </svg>
+  <svg height="100" width="70" x="554" y="0">
+    <defs/>
+    <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
+  </svg>
+  <svg height="100" width="90" x="308" y="125">
+    <defs/>
+    <text dominant-baseline="central" fill="#000001" style="font-size: 1.4em;" x="0%" y="50%">Bob</text>
+  </svg>
+  <svg height="100" width="70" x="398" y="125">
+    <defs/>
+    <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
+  </svg>
+  <svg height="100" width="70" x="476" y="125">
+    <defs/>
+    <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
+  </svg>
+  <svg height="100" width="70" x="554" y="125">
+    <defs/>
+    <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
+  </svg>
+</svg>
+
