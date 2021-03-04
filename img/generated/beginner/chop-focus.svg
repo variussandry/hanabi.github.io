@@ -55,17 +55,17 @@
   <rect fill="orange" height="106" rx="5" ry="5" width="76" x="551.0" y="122.0"/>
   <svg height="100" width="70" x="554" y="125">
     <defs/>
-    <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/p.svg" y="0"/>
+    <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/r.svg" y="0"/>
   </svg>
   <image height="70" width="50" x="564" xlink:href="/img/pieces/arrow.svg" y="85"/>
-  <circle cx="589" cy="110" fill="blueviolet" r="15" stroke="black" stroke-width="2"/>
+  <circle cx="589" cy="110" fill="red" r="15" stroke="black" stroke-width="2"/>
   <rect fill="orange" height="106" rx="5" ry="5" width="76" x="629.0" y="122.0"/>
   <svg height="100" width="70" x="632" y="125">
     <defs/>
-    <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/p.svg" y="0"/>
+    <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/r.svg" y="0"/>
   </svg>
   <image height="70" width="50" x="642" xlink:href="/img/pieces/arrow.svg" y="85"/>
-  <circle cx="667" cy="110" fill="blueviolet" r="15" stroke="black" stroke-width="2"/>
+  <circle cx="667" cy="110" fill="red" r="15" stroke="black" stroke-width="2"/>
   <svg height="100" width="70" x="710" y="125">
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
@@ -77,10 +77,10 @@
   <rect fill="orange" height="106" rx="5" ry="5" width="76" x="863.0" y="122.0"/>
   <svg height="100" width="70" x="866" y="125">
     <defs/>
-    <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/p.svg" y="0"/>
+    <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/r.svg" y="0"/>
   </svg>
   <image height="70" width="50" x="876" xlink:href="/img/pieces/arrow.svg" y="85"/>
-  <circle cx="901" cy="110" fill="blueviolet" r="15" stroke="black" stroke-width="2"/>
+  <circle cx="901" cy="110" fill="red" r="15" stroke="black" stroke-width="2"/>
   <svg height="20" width="64" x="869" y="230">
     <defs/>
     <rect fill="gold" height="20" stroke="black" width="64" x="0" y="0"/>
