@@ -17,8 +17,8 @@
             </feMerge>
         </filter>
     </defs>
-  <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/b1.svg" y="0"/>
-  <image height="100" width="70" x="78" xlink:href="/img/pieces/cards/g1.svg" y="0"/>
+  <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/r1.svg" y="0"/>
+  <image height="100" width="70" x="78" xlink:href="/img/pieces/cards/b1.svg" y="0"/>
   <image height="100" width="70" x="156" xlink:href="/img/pieces/cards/m1.svg" y="0"/>
   <svg height="100" width="90" x="308" y="0">
     <defs/>
@@ -43,12 +43,12 @@
       <defs/>
       <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">5</text>
     </svg>
-    <image height="12" style="filter: url(#shadow)" width="12" x="29.0" xlink:href="/img/pieces/pips/b.svg" y="24.0"/>
-    <image height="12" style="filter: url(#shadow)" width="12" x="11.679491924311225" xlink:href="/img/pieces/pips/g.svg" y="54.0"/>
+    <image height="12" style="filter: url(#shadow)" width="12" x="29.0" xlink:href="/img/pieces/pips/r.svg" y="24.0"/>
+    <image height="12" style="filter: url(#shadow)" width="12" x="11.679491924311225" xlink:href="/img/pieces/pips/b.svg" y="54.0"/>
     <image height="12" style="filter: url(#shadow)" width="12" x="46.320508075688764" xlink:href="/img/pieces/pips/m.svg" y="54.00000000000001"/>
   </svg>
   <rect fill="orange" height="106" rx="5" ry="5" width="76" x="551.0" y="-3.0"/>
-  <image height="100" width="70" x="554" xlink:href="/img/pieces/cards/g4.svg" y="0"/>
+  <image height="100" width="70" x="554" xlink:href="/img/pieces/cards/r4.svg" y="0"/>
   <svg height="100" width="90" x="308" y="125">
     <defs/>
     <text dominant-baseline="central" fill="#000001" style="font-size: 1.4em;" x="0%" y="50%">Bob</text>
@@ -96,14 +96,14 @@
       <defs/>
       <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">4</text>
     </svg>
-    <image height="12" style="filter: url(#shadow)" width="12" x="11.679491924311225" xlink:href="/img/pieces/pips/g.svg" y="54.0"/>
+    <image height="12" style="filter: url(#shadow)" width="12" x="29.0" xlink:href="/img/pieces/pips/r.svg" y="24.0"/>
     <image height="12" style="filter: url(#shadow)" width="12" x="46.320508075688764" xlink:href="/img/pieces/pips/m.svg" y="54.00000000000001"/>
   </svg>
   <rect fill="orange" height="106" rx="5" ry="5" width="76" x="473.0" y="247.0"/>
   <svg height="100" width="70" x="476" y="250">
     <defs/>
     <image height="100" width="70" x="0" xlink:href="/img/pieces/cards/3.svg" y="0"/>
-    <image height="12" style="filter: url(#shadow)" width="12" x="29.0" xlink:href="/img/pieces/pips/b.svg" y="24.0"/>
+    <image height="12" style="filter: url(#shadow)" width="12" x="11.679491924311225" xlink:href="/img/pieces/pips/b.svg" y="54.0"/>
     <image height="12" style="filter: url(#shadow)" width="12" x="46.320508075688764" xlink:href="/img/pieces/pips/m.svg" y="54.00000000000001"/>
   </svg>
   <rect fill="orange" height="106" rx="5" ry="5" width="76" x="551.0" y="247.0"/>
@@ -125,7 +125,7 @@
       <defs/>
       <text dominant-baseline="central" fill="white" style="filter: url(#shadow)" text-anchor="middle" x="50%" y="50%">3</text>
     </svg>
-    <image height="12" style="filter: url(#shadow)" width="12" x="11.679491924311225" xlink:href="/img/pieces/pips/g.svg" y="54.0"/>
+    <image height="12" style="filter: url(#shadow)" width="12" x="29.0" xlink:href="/img/pieces/pips/r.svg" y="24.0"/>
   </svg>
 </svg>
 
