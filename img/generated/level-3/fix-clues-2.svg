@@ -103,8 +103,8 @@
   <svg height="100" width="90" x="464" y="475">
     <defs/>
     <text dominant-baseline="central" fill="#000001" style="font-size: 1.4em;" x="0%" y="50%">Bob</text>
-    <text dominant-baseline="central" dy="30" fill="black" filter="url(#clue_giver)" x="0%" y="50%">clue giver</text>
-    <text dominant-baseline="central" dy="30" fill="black" x="0%" y="50%">clue giver</text>
+    <text dominant-baseline="central" dy="30" fill="black" filter="url(#clue_giver)" x="0%" y="50%">Clue Giver</text>
+    <text dominant-baseline="central" dy="30" fill="black" x="0%" y="50%">Clue Giver</text>
   </svg>
   <svg height="100" width="70" x="554" y="475">
     <defs/>
