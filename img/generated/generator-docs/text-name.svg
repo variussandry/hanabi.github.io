@@ -36,7 +36,7 @@
     <defs/>
     <rect fill="gray" height="100" rx="5" ry="5" width="70" x="0" y="0"/>
   </svg>
-  <text dy="20" fill="#000001" x="348" y="125">Aliens replaced Bob with Zoe</text>
+  <text dy="20" fill="#000001" x="348" y="125">Aliens replaced Bob with Zoe.</text>
   <svg height="100" width="90" x="308" y="175">
     <defs/>
     <text dominant-baseline="central" fill="#000001" style="font-size: 1.4em;" x="0%" y="50%">Zoe</text>
