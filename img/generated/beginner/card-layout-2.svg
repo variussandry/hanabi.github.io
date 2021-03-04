@@ -71,10 +71,6 @@
     <defs/>
     <text dominant-baseline="central" fill="white" style="font-size: 1.4em;" text-anchor="middle" x="50%" y="50%">1</text>
   </svg>
-  <svg height="100" width="70" x="710" y="125">
-    <defs/>
-    <text dominant-baseline="central" fill="deepskyblue" stroke="deepskyblue" style="font-size: 1.5em; filter: url(#shadow);" text-anchor="middle" x="50%" y="50%">(B)</text>
-  </svg>
   <rect fill="orange" height="106" rx="5" ry="5" width="76" x="785.0" y="122.0"/>
   <svg height="100" width="70" x="788" y="125">
     <defs/>
@@ -85,10 +81,6 @@
   <svg height="16" width="16" x="815" y="102">
     <defs/>
     <text dominant-baseline="central" fill="white" style="font-size: 1.4em;" text-anchor="middle" x="50%" y="50%">1</text>
-  </svg>
-  <svg height="100" width="70" x="788" y="125">
-    <defs/>
-    <text dominant-baseline="central" fill="salmon" stroke="salmon" style="font-size: 1.5em; filter: url(#shadow);" text-anchor="middle" x="50%" y="50%">(R)</text>
   </svg>
   <svg height="100" width="70" x="866" y="125">
     <defs/>
